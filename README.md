@@ -43,7 +43,7 @@ EOF
 nishitshinde@NISHIT smart_cache_prototype % 
 nishitshinde@NISHIT smart_cache_prototype % python3 prototype.py
 
-THE SOLUTION STARTS FROM HERE:-
+THE SOLUTION :-
 
 === REQUEST 1: Asking for toy_car ===
 --> MISS! Running to basement closet for 'toy_car'...
