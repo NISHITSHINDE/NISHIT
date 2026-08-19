@@ -1,6 +1,5 @@
-
-nishitshinde@NISHIT ~ % pip3 install streamlit pandas
-
+import streamlit as st
+import pandas as pd
 Collecting streamlit
   Downloading streamlit-1.61.1-py3-none-any.whl.metadata (10 kB)
 Collecting pandas
