@@ -182,7 +182,7 @@ with col_right:
 EOF
 nishitshinde@NISHIT ~ % streamlit run app.py
 
-      👋 Welcome to Streamlit!
+      Welcome to Streamlit!
 
       If you'd like to receive helpful onboarding emails, news, offers, promotions,
       and the occasional swag, please enter your email address below. Otherwise,
