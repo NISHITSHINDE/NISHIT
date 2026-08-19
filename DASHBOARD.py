@@ -217,7 +217,5 @@ nishitshinde@NISHIT ~ % streamlit run app.py
 
   $ xcode-select --install
   $ pip install watchdog
-
-THE DASHBOARD IS:-
             
 
