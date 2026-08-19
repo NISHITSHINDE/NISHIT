@@ -76,26 +76,26 @@ Collecting referencing>=0.28.4 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>
 Collecting rpds-py>=0.25.0 (from jsonschema>=3.0->altair!=5.4.0,!=5.4.1,<7,>=5.0.0->streamlit)
   Downloading rpds_py-2026.6.3-cp313-cp313-macosx_10_12_x86_64.whl.metadata (4.1 kB)
 Downloading streamlit-1.61.1-py3-none-any.whl (10.5 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.5/10.5 MB 4.1 MB/s eta 0:00:00
+   10.5/10.5 MB 4.1 MB/s eta 0:00:00
 Downloading pandas-3.0.5-cp313-cp313-macosx_10_13_x86_64.whl (10.4 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 10.4/10.4 MB 3.4 MB/s eta 0:00:00
+   10.4/10.4 MB 3.4 MB/s eta 0:00:00
 Downloading altair-6.2.2-py3-none-any.whl (797 kB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 797.6/797.6 kB 2.8 MB/s eta 0:00:00
+   797.6/797.6 kB 2.8 MB/s eta 0:00:00
 Downloading anyio-4.14.2-py3-none-any.whl (125 kB)
 Downloading blinker-1.9.0-py3-none-any.whl (8.5 kB)
 Downloading click-8.4.2-py3-none-any.whl (119 kB)
 Downloading httptools-0.8.0-cp313-cp313-macosx_10_13_universal2.whl (205 kB)
 Downloading itsdangerous-2.2.0-py3-none-any.whl (16 kB)
 Downloading numpy-2.5.2-cp313-cp313-macosx_10_13_x86_64.whl (16.9 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.9/16.9 MB 3.4 MB/s eta 0:00:00
+   16.9/16.9 MB 3.4 MB/s eta 0:00:00
 Downloading packaging-26.3-py3-none-any.whl (129 kB)
 Downloading pillow-12.3.0-cp313-cp313-macosx_10_13_x86_64.whl (5.3 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.3/5.3 MB 1.8 MB/s eta 0:00:00
+   5.3/5.3 MB 1.8 MB/s eta 0:00:00
 Downloading protobuf-7.35.1-cp310-abi3-macosx_10_9_universal2.whl (433 kB)
 Downloading pyarrow-24.0.0-cp313-cp313-macosx_12_0_x86_64.whl (36.7 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 36.7/36.7 MB 2.0 MB/s eta 0:00:00
+    36.7/36.7 MB 2.0 MB/s eta 0:00:00
 Downloading pydeck-0.9.3-py2.py3-none-any.whl (11.4 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 11.4/11.4 MB 3.3 MB/s eta 0:00:00
+11.4/11.4 MB 3.3 MB/s eta 0:00:00
 Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
 Downloading python_multipart-0.0.32-py3-none-any.whl (30 kB)
 Downloading requests-2.34.2-py3-none-any.whl (73 kB)
