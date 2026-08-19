@@ -184,7 +184,7 @@ nishitshinde@NISHIT ~ % streamlit run app.py
 
       Welcome to Streamlit!
 
-      If you'd like to receive helpful onboarding emails, news, offers, promotions,
+      If youd like to receive helpful onboarding emails, news, offers, promotions,
       and the occasional swag, please enter your email address below. Otherwise,
       leave this field blank.
 
