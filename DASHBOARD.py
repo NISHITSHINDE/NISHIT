@@ -1,4 +1,4 @@
-Last login: Wed Aug 19 22:37:50 on ttys000
+
 maheshshinde@NISHIT ~ % >....                                                   
     if c2.button("Run Dynamic TTL Engine <0001f9f9>", use_container_width=True): 
         clean_cache()
