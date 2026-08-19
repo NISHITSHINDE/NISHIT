@@ -23,7 +23,6 @@ with col_right:
         st.text(log)
 EOF
 maheshshinde@NISHIT ~ % streamlit run app.py
-2026-08-19 23:26:41.653 Uvicorn server started on :::8501
 
   You can now view your Streamlit app in your browser.
 
