@@ -1,4 +1,4 @@
-Lastlogin: WedAug1922:19:23 onttys000
+
 nishitshinde@NISHIT ~ % pip3 install streamlit pandas
 
 Collecting streamlit
