@@ -1,4 +1,4 @@
-Last login: Wed Aug 19 22:19:23 on ttys000
+Lastlogin: Wed Aug 19 22:19:23 on ttys000
 nishitshinde@NISHIT ~ % pip3 install streamlit pandas
 
 Collecting streamlit
